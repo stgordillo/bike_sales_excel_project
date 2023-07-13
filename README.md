@@ -17,7 +17,7 @@ The Dataset used in this project was retrieved from the [github](https://github.
 
 Below I describe, step-by-step the data cleaning and manipulation I performed to the dataset.  I created a few new sheets in order to have a sheet to manipulate the data without disrupting the original, a sheet for my pivot tables and a sheet for my visualizations turned into a dashboard with filters. 
 
-**Dataset**  
+**Bike Sales**  
   1. Added three new sheets, "Working Sheet", "Pivot Table", and "Dashboard".
   2. Copied all data to "Working Sheet".
   3. Used filters and conditional formatting to check for duplicates, blanks, spelling mistakes, etc.
